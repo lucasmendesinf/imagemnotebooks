@@ -77,7 +77,7 @@
           <article class="service-card">
             <span class="icon" aria-hidden="true">02</span>
             <h3>Reparo de placa mãe</h3>
-            <p>Análise eletrônica para equipamentos que não ligam, desligam sozinhos, aquecem ou apresentam falhas intermitentes.</p>
+            <p>Análise eletrônica para equipamentos que não ligam, desligam sozinhos, aquecem ou apresentam falhas intermitentes, incluindo troca de chipset e solda BGA.</p>
           </article>
           <article class="service-card">
             <span class="icon" aria-hidden="true">03</span>
@@ -210,8 +210,8 @@
 
     <footer class="site-footer">
       <div>
-        <p>&copy; <span id="year"></span> <a href="https://imagemnotebooks.com.br" target="_blank" rel="noopener">Imagem Notebooks</a>. Todos os direitos reservados.</p>
-        <p>Desenvolvido por <a href="https://www.calutec.com.br" target="_blank" rel="noopener">Calutec</a>.</p>
+        <p>&copy; <span id="year"></span> Imagem Notebooks. Todos os direitos reservados.</p>
+        <p>Desenvolvido por <a href="https://www.calutec.com.br" target="_blank" rel="noopener">Calutec Soluções</a>.</p>
       </div>
       <a href="#inicio">Voltar ao topo</a>
     </footer>

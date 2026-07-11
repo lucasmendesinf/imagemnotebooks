@@ -42,8 +42,8 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  min-height: 76px;
-  padding: 14px clamp(18px, 5vw, 72px);
+  min-height: 57px;
+  padding: 8px clamp(18px, 5vw, 72px);
   color: var(--white);
   background: rgba(16, 23, 34, 0.78);
   border-bottom: 1px solid rgba(255, 255, 255, 0.14);
@@ -63,6 +63,8 @@ a {
   max-height: 107px;
   object-fit: contain;
   border-radius: 6px;
+  transform: scale(1.2);
+  transform-origin: left center;
 }
 
 .site-nav {
@@ -540,16 +542,17 @@ a {
 
 @media (max-width: 640px) {
   .site-header {
-    min-height: 68px;
+    min-height: 51px;
   }
 
   .brand-logo {
     width: 245px;
     max-height: 84px;
+    transform: scale(1.12);
   }
 
   .site-nav {
-    top: 68px;
+    top: 51px;
   }
 
   .hero {
