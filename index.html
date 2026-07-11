@@ -66,10 +66,15 @@
       </section>
 
       <section class="section services" id="servicos" aria-labelledby="services-title">
-        <div class="section-heading">
-          <p class="eyebrow">Serviços</p>
+        <div class="section-heading services-heading">
+          <div class="services-intro">
+            <figure class="services-media">
+              <img src="assets/img/hero-bga-chipset.png" alt="Reparo técnico em placa de notebook com solda BGA">
+            </figure>
+            <p class="eyebrow">Serviços</p>
+            <p>Diagnóstico objetivo, peças adequadas e comunicação transparente em cada etapa.</p>
+          </div>
           <h2 id="services-title">Reparo técnico para o que realmente trava sua rotina.</h2>
-          <p>Diagnóstico objetivo, peças adequadas e comunicação transparente em cada etapa.</p>
         </div>
 
         <div class="service-grid">
