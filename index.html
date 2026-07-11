@@ -69,7 +69,7 @@
         <div class="section-heading services-heading">
           <div class="services-intro">
             <figure class="services-media">
-              <img src="assets/img/hero-bga-chipset.png" alt="Reparo técnico em placa de notebook com solda BGA">
+              <img src="assets/img/services-diagnostic-repair.png" alt="Diagnóstico técnico em placa de notebook com multímetro">
             </figure>
             <p class="eyebrow">Serviços</p>
             <p>Diagnóstico objetivo, peças adequadas e comunicação transparente em cada etapa.</p>
