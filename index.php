@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Imagem Notebooks: manutencao de notebooks, troca de tela, reparo de placa mae, monitores e TVs em Curitiba.">
-    <title>Imagem Notebooks | Assistencia tecnica em Curitiba</title>
+    <meta name="description" content="Imagem Notebooks: manutenção de notebooks, troca de tela, reparo de placa mãe, monitores e TVs em Curitiba.">
+    <title>Imagem Notebooks | Assistência técnica em Curitiba</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -22,8 +22,8 @@
         <span></span>
       </button>
 
-      <nav class="site-nav" aria-label="Navegacao principal">
-        <a href="#servicos">Servicos</a>
+      <nav class="site-nav" aria-label="Navegação principal">
+        <a href="#servicos">Serviços</a>
         <a href="#processo">Como funciona</a>
         <a href="#empresa">Empresa</a>
         <a href="#contato">Contato</a>
@@ -32,13 +32,13 @@
 
     <main id="inicio">
       <section class="hero" aria-labelledby="hero-title">
-        <img class="hero-image" src="assets/img/hero-workbench.png" alt="Bancada tecnica organizada com notebook aberto para manutencao">
+        <img class="hero-image" src="assets/img/hero-workbench.png" alt="Bancada técnica organizada com notebook aberto para manutenção">
         <div class="hero-overlay"></div>
         <div class="hero-content">
-          <p class="eyebrow">Curitiba e regiao metropolitana</p>
-          <h1 id="hero-title">Seu notebook em boas maos, do diagnostico ao reparo.</h1>
+          <p class="eyebrow">Curitiba e região metropolitana</p>
+          <h1 id="hero-title">Seu notebook em boas mãos, do diagnóstico ao reparo.</h1>
           <p class="hero-copy">
-            Manutencao de notebooks, troca de tela, reparo de placa mae, monitores e TVs com atendimento tecnico claro, rapido e sem enrolacao.
+            Manutenção de notebooks, troca de tela, reparo de placa mãe, monitores e TVs com atendimento técnico claro, rápido e sem enrolação.
           </p>
           <div class="hero-actions">
             <a class="button primary" href="https://wa.me/554132651030?text=Ol%C3%A1%2C%20Imagem%20Notebooks.%20Gostaria%20de%20solicitar%20atendimento." target="_blank" rel="noopener">Chamar no WhatsApp</a>
@@ -47,7 +47,7 @@
           <dl class="hero-metrics" aria-label="Diferenciais">
             <div>
               <dt>10+</dt>
-              <dd>anos de experiencia</dd>
+              <dd>anos de experiência</dd>
             </div>
             <div>
               <dt>Coleta</dt>
@@ -63,21 +63,21 @@
 
       <section class="section services" id="servicos" aria-labelledby="services-title">
         <div class="section-heading">
-          <p class="eyebrow">Servicos</p>
-          <h2 id="services-title">Reparo tecnico para o que realmente trava sua rotina.</h2>
-          <p>Diagnostico objetivo, pecas adequadas e comunicacao transparente em cada etapa.</p>
+          <p class="eyebrow">Serviços</p>
+          <h2 id="services-title">Reparo técnico para o que realmente trava sua rotina.</h2>
+          <p>Diagnóstico objetivo, peças adequadas e comunicação transparente em cada etapa.</p>
         </div>
 
         <div class="service-grid">
           <article class="service-card">
             <span class="icon" aria-hidden="true">01</span>
             <h3>Troca de tela de notebook</h3>
-            <p>Substituicao de telas quebradas, manchadas, piscando ou sem imagem, com verificacao de cabo flat e dobradicas.</p>
+            <p>Substituição de telas quebradas, manchadas, piscando ou sem imagem, com verificação de cabo flat e dobradiças.</p>
           </article>
           <article class="service-card">
             <span class="icon" aria-hidden="true">02</span>
-            <h3>Reparo de placa mae</h3>
-            <p>Analise eletronica para equipamentos que nao ligam, desligam sozinhos, aquecem ou apresentam falhas intermitentes.</p>
+            <h3>Reparo de placa mãe</h3>
+            <p>Análise eletrônica para equipamentos que não ligam, desligam sozinhos, aquecem ou apresentam falhas intermitentes.</p>
           </article>
           <article class="service-card">
             <span class="icon" aria-hidden="true">03</span>
@@ -87,7 +87,7 @@
           <article class="service-card">
             <span class="icon" aria-hidden="true">04</span>
             <h3>Limpeza e desempenho</h3>
-            <p>Limpeza interna, troca de pasta termica, upgrade de SSD/memoria e otimizacao para recuperar velocidade.</p>
+            <p>Limpeza interna, troca de pasta térmica, upgrade de SSD/memória e otimização para recuperar velocidade.</p>
           </article>
         </div>
       </section>
@@ -97,7 +97,7 @@
           <p class="eyebrow">Como funciona</p>
           <h2 id="process-title">Atendimento simples, com previsibilidade.</h2>
           <p>
-            Voce recebe uma avaliacao antes do conserto, acompanha o andamento e aprova o servico com clareza sobre prazo e custo.
+            Você recebe uma avaliação antes do conserto, acompanha o andamento e aprova o serviço com clareza sobre prazo e custo.
           </p>
         </div>
 
@@ -112,7 +112,7 @@
           <li>
             <span>2</span>
             <div>
-              <h3>Diagnostico tecnico</h3>
+              <h3>Diagnóstico técnico</h3>
               <p>A equipe verifica a causa da falha e informa as alternativas de reparo.</p>
             </div>
           </li>
@@ -120,7 +120,7 @@
             <span>3</span>
             <div>
               <h3>Reparo aprovado</h3>
-              <p>O servico comeca apos sua aprovacao, com retorno quando o equipamento estiver pronto.</p>
+              <p>O serviço começa após sua aprovação, com retorno quando o equipamento estiver pronto.</p>
             </div>
           </li>
         </ol>
@@ -129,24 +129,24 @@
       <section class="section about" id="empresa" aria-labelledby="about-title">
         <div class="about-panel">
           <p class="eyebrow">Imagem Notebooks</p>
-          <h2 id="about-title">Técnica, responsabilidade e atendimento rápidp.</h2>
+          <h2 id="about-title">Técnica, responsabilidade e atendimento rápido.</h2>
           <p>
-            Somos especialistas em manutenção de notebooks com uma equipe de profissionais experientes para melhor atendê-lo. Trabalhamos a mais de 10 anos no ramo de assistência em notebooks, Tv e monitores. Trabalhamos com serviço de "leva e traz" com a maior comodidade e segurança para você cliente amigo.
+            Somos especialistas em manutenção de notebooks com uma equipe de profissionais experientes para melhor atendê-lo. Trabalhamos há mais de 10 anos no ramo de assistência em notebooks, TVs e monitores. Trabalhamos com serviço de "leva e traz" com a maior comodidade e segurança para você, cliente amigo.
           </p>
         </div>
         <div class="highlight-list" aria-label="Diferenciais da empresa">
-          <p>Orcamento antes da execucao</p>
-          <p>Analise de componentes e perifericos</p>
+          <p>Orçamento antes da execução</p>
+          <p>Análise de componentes e periféricos</p>
           <p>Suporte para coleta sob consulta</p>
-          <p>Atendimento para pessoas fisicas e empresas</p>
+          <p>Atendimento para pessoas físicas e empresas</p>
         </div>
       </section>
 
       <section class="section contact" id="contato" aria-labelledby="contact-title">
         <div>
           <p class="eyebrow">Contato</p>
-          <h2 id="contact-title">Fale com a assistencia.</h2>
-          <p>Explique o defeito do equipamento e combine o melhor horario de atendimento.</p>
+          <h2 id="contact-title">Fale com a assistência.</h2>
+          <p>Explique o defeito do equipamento e combine o melhor horário de atendimento.</p>
         </div>
 
         <div class="contact-panel">
@@ -160,22 +160,22 @@
               <input id="phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="(41) 99999-9999" maxlength="15" pattern="\([0-9]{2}\) [0-9]{4,5}-[0-9]{4}" required>
             </div>
             <div class="form-row">
-              <label for="service">Servico desejado</label>
+              <label for="service">Serviço desejado</label>
               <select id="service" name="service" required>
-                <option value="">Selecione uma opcao</option>
+                <option value="">Selecione uma opção</option>
                 <option>Troca de tela de notebook</option>
-                <option>Reparo de placa mae</option>
+                <option>Reparo de placa mãe</option>
                 <option>Monitores e TVs</option>
                 <option>Limpeza e desempenho</option>
                 <option>Outro atendimento</option>
               </select>
             </div>
             <div class="form-row">
-              <label for="message">Descricao do problema</label>
+              <label for="message">Descrição do problema</label>
               <textarea id="message" name="message" rows="5" required></textarea>
             </div>
             <button class="button primary form-submit" type="submit">Enviar por e-mail</button>
-            <p class="form-note" id="form-note">Ao enviar, seu aplicativo de e-mail sera aberto com a mensagem preenchida.</p>
+            <p class="form-note" id="form-note">Ao enviar, seu aplicativo de e-mail será aberto com a mensagem preenchida.</p>
           </form>
 
           <div class="contact-side">
@@ -189,14 +189,14 @@
                 <strong>(41) 3265-1030</strong>
               </a>
               <a class="contact-link" href="https://www.google.com/maps/search/?api=1&query=Imagem%20Notebooks%20Assist%C3%AAncia%20T%C3%A9cnica%20Curitiba" target="_blank" rel="noopener">
-                <span>Localizacao</span>
+                <span>Localização</span>
                 <strong>Curitiba, PR</strong>
               </a>
             </div>
 
             <div class="contact-map" aria-label="Mapa da Imagem Notebooks">
               <iframe
-                title="Mapa da Imagem Notebooks Assistencia Tecnica"
+                title="Mapa da Imagem Notebooks Assistência Técnica"
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7200.043343418065!2d-49.29550864560705!3d-25.5376550196102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcfc6328872b27%3A0xa0d3c4daf2258467!2sImagem+Notebooks+Assist%C3%AAncia+Tecnica!5e0!3m2!1spt-BR!2sbr!4v1523368716572"
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"

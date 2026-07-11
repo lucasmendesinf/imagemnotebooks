@@ -56,14 +56,14 @@ if (contactForm) {
     const service = String(formData.get("service") || "").trim();
     const message = String(formData.get("message") || "").trim();
 
-    const subject = `Solicitacao de atendimento - ${service}`;
+    const subject = `Solicitação de atendimento - ${service}`;
     const body = [
-      "Ola, Imagem Notebooks. Gostaria de solicitar atendimento.",
+      "Olá, Imagem Notebooks. Gostaria de solicitar atendimento.",
       "",
       `Nome: ${name}`,
       `Telefone: ${phone}`,
-      `Servico: ${service}`,
-      `Descricao: ${message}`,
+      `Serviço: ${service}`,
+      `Descrição: ${message}`,
     ].join("\n");
 
     window.location.href = `mailto:contato@imagemnotebooks.com.br?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
