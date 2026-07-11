@@ -33,9 +33,9 @@
     <main id="inicio">
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-slider" aria-hidden="true">
-          <img class="hero-image" src="assets/img/hero-workbench.png" alt="">
-          <img class="hero-image" src="assets/img/hero-tv-repair.png" alt="">
-          <img class="hero-image" src="assets/img/hero-bga-chipset.png" alt="">
+          <img class="hero-image" src="assets/img/hero-workbench.jpg" alt="">
+          <img class="hero-image" src="assets/img/hero-tv-repair.jpg" alt="">
+          <img class="hero-image" src="assets/img/hero-bga-chipset.jpg" alt="">
         </div>
         <div class="hero-overlay"></div>
         <div class="hero-content">
@@ -69,7 +69,7 @@
         <div class="section-heading services-heading">
           <div class="services-intro">
             <figure class="services-media">
-              <img src="assets/img/services-diagnostic-repair.png" alt="Diagnóstico técnico em placa de notebook com multímetro">
+              <img src="assets/img/services-diagnostic-repair.jpg" alt="Diagnóstico técnico em placa de notebook com multímetro">
             </figure>
             <p class="eyebrow">Serviços</p>
             <p>Diagnóstico objetivo, peças adequadas e comunicação transparente em cada etapa.</p>
