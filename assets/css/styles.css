@@ -58,9 +58,9 @@ a {
 
 .brand-logo {
   display: block;
-  width: clamp(148px, 18vw, 210px);
+  width: clamp(274px, 33.1vw, 403px);
   height: auto;
-  max-height: 54px;
+  max-height: 107px;
   object-fit: contain;
   border-radius: 6px;
 }
@@ -544,8 +544,8 @@ a {
   }
 
   .brand-logo {
-    width: 138px;
-    max-height: 46px;
+    width: 245px;
+    max-height: 84px;
   }
 
   .site-nav {

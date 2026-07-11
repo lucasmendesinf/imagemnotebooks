@@ -13,7 +13,7 @@
   <body>
     <header class="site-header">
       <a class="brand" href="#inicio" aria-label="Imagem Notebooks">
-        <img class="brand-logo" src="assets/img/logo-imagem-notebooks-transparente.png" alt="Imagem Notebooks">
+        <img class="brand-logo" src="assets/img/logo.png" alt="Imagem Notebooks">
       </a>
 
       <button class="nav-toggle" type="button" aria-label="Abrir menu" aria-expanded="false">
