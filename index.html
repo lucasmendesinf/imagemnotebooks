@@ -32,7 +32,11 @@
 
     <main id="inicio">
       <section class="hero" aria-labelledby="hero-title">
-        <img class="hero-image" src="assets/img/hero-workbench.png" alt="Bancada técnica organizada com notebook aberto para manutenção">
+        <div class="hero-slider" aria-hidden="true">
+          <img class="hero-image" src="assets/img/hero-workbench.png" alt="">
+          <img class="hero-image" src="assets/img/hero-tv-repair.png" alt="">
+          <img class="hero-image" src="assets/img/hero-bga-chipset.png" alt="">
+        </div>
         <div class="hero-overlay"></div>
         <div class="hero-content">
           <p class="eyebrow">Curitiba e região metropolitana</p>
